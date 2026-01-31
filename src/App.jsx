@@ -32,7 +32,7 @@ const CONTRACT_ABI = [
 ];
 
 // Ganti dengan alamat kontrak Anda setelah deploy
-const CONTRACT_ADDRESS = "0x4574f12708A50a2c73e6c018CA02A4e95F8d6AC9";
+const CONTRACT_ADDRESS = "0x0BA5F42D7dCE30C9B0c7e4B3311c0BD994D81748";
 const WHATSAPP_NUMBER = "62895600394345";
 const PLASMA_CHAIN_ID = '0x2611';
 const PLASMA_RPC_URL = 'https://rpc.plasma.to';

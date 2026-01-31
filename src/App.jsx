@@ -1083,7 +1083,7 @@ function App() {
               />
               <div className="ebook-details">
                 <h3>{selectedEbook.title}</h3>
-                <p className="price-display">Harga: {safeFormatEther(selectedEbook.price)} XPL</p>
+                <p className="price-display">Harga: {safeFormatEther(selectedEbook.price)} Plasma XPL</p>
                 {stats.remainingDiscounts > 0 && (
                   <p className="discount-display" style={{ color: 'var(--success)', fontWeight: '600' }}>
                     🎉 Diskon 10% untuk Anda!
